@@ -1,11 +1,7 @@
-var input = require("fs").readFileSync("./dev/stdin", "utf8");
-var lines = input.split("\n");
+var input = require('fs').readFileSync('./dev/stdin', 'utf8');
+var lines = input.split('\n');
 
 const [a, b] = lines.map((e) => parseInt(e));
-
-// const produto = (a, b) => a * b;
-
-// recursão:
 const produto = (a, b) => {
     if(b === 0){
         return 0;

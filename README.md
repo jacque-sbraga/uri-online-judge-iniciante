@@ -9,3 +9,5 @@
 * [1005](resolvidos/1005.js);
 * [1006](resolvidos/1006.js);
 * [1007](resolvidos/1007.js);
+* [1008](resolvidos/1008.js);
+* [1009](resolvidos/1009.js);

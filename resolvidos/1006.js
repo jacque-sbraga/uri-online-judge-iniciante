@@ -1,5 +1,5 @@
-var input = require("fs").readFileSync("./dev/stdin", "utf8");
-var lines = input.split("\n");
+var input = require('fs').readFileSync('./dev/stdin', 'utf8');
+var lines = input.split('\n');
 
 const a = parseFloat(lines.shift());
 const b = parseFloat(lines.shift());
