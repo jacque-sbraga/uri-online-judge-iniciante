@@ -14,3 +14,5 @@
 * [1010](resolvidos/1010.js);
 * [1011](resolvidos/1011.js);
 * [1013](resolvidos/1013.js);
+* [1014](resolvidos/1014.js);
+* [1015](resolvidos/1015.js);
